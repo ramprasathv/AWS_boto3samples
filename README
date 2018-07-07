@@ -1,0 +1,12 @@
+# Repository of sample code that uses AWS Services
+
+A) AWS Config & Attributes:
+
+1. .aws/config
+[profile translate]
+region = <set the region where the service is available>
+
+2. .aws/credentials
+[translate]
+aws_access_key_id = <Your AWS Key ID>
+aws_secret_access_key = <Your AWS secret access key>

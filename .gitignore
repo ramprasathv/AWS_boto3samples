@@ -1,0 +1,19 @@
+# Ignore the venv folders
+venv/
+
+# Ignore the DBs
+*.db
+
+
+# Ignore the log files
+logs/
+
+# Ignore .idea
+.idea/
+
+
+# Ignore __pycache__
+**/__pycache__/
+
+# Ignore sample source downloaded from AWS
+s3_sample.py
